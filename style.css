@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+#button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin: 20px 0;
+}
+
+.bg-container {
+  width: 160px;
+  height: 160px;
+  margin: 0 auto;
+  background-color: #4e73df;
+  border: 1px solid #ccc;
+}
